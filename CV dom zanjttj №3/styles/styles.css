@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ 
+ img {
+ 	display: block;
+ 	width: 100%;
+ }
+ .personal-info {
+ 	padding: 25px;
+ 	background-color: #3f6592;
+ }
+ .foto {
+ 	width: 135px;
+ 	height: 135px;
+ 	border-radius: 50%;
+ 	overflow: hidden;
+ }
+
+
+
+ .img-fluid {
+ 	object-fit: cover;
+ 	height: 100%;
+ }
