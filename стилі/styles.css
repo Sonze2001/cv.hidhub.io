@@ -62,3 +62,9 @@ margin: 0 auto;
   color: black;
 }
 
+a {
+   text-decoration: none;
+}
+li {
+   list-style: none;
+}
