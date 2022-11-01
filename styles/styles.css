@@ -1,0 +1,64 @@
+
+
+@import url('https://fonts.googleapis.com/css2? родина= Roboto:wght@300;500 & display=swap');
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+ 
+ img {
+ 	display: block;
+ 	width: 100%;
+ }
+ .personal-info {
+ 	padding: 25px;
+ 	background-color: #3f6592;
+    color: #fff;
+ }
+
+ a {
+   color: white;
+}
+
+ .foto {
+ 	width: 135px;
+ 	height: 135px;
+    margin-bottom: 25px;
+    margin: 0 auto;
+ 	border-radius: 50%;
+ 	overflow: hidden;
+ }
+div.parent span {
+   color: white;
+}
+
+ .img-fluid {
+ 	object-fit: cover;
+ 	height: 100%;
+ }
+ .name {
+    margin-top: 25px;
+    color: #fff;
+    front-size: 2rem;
+    text-align: center;
+ }
+ center-block{
+margin: 0 auto;
+ }
+.subtitle {
+  font-weight: bold;
+}
+.title {
+  font-weight: bold;
+}
+.experience {
+  padding: 25px;
+  background-color: white;
+  color: black;
+}
+
